@@ -1,4 +1,8 @@
-### Running the program
+# Invoice App
+
+Application showing the implementation of an invoice app in Java.
+
+# Running
 
 1. Run "ant" in the parent directory (where this file and build.xml are located).
 This will execute the target "run-test-data", which does all the test cases and run 
